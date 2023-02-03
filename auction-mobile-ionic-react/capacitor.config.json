@@ -1,0 +1,9 @@
+{
+	"appId": "com.management.auction",
+	"appName": "Auction",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"LocalNotifications": {}
+	}
+}
